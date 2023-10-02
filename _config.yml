@@ -22,7 +22,7 @@ title: Skipper Bitcoin
 email: hello@skipperbitcoin.com
 description: >- # this means to ignore newlines until "baseurl:"
   The absolute best bitcoin education no money can buy. From 0 knowledge to Bitcoiner in no time.
-baseurl: /skipperbitcoin # the subpath of your site, e.g. /blog
+baseurl: /blog # the subpath of your site, e.g. /blog
 url: skipperbitcoin.github.io # the base hostname & protocol for your site, e.g. http://example.com
 github_username:  skipperbitcoin
 
